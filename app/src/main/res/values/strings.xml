@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AganPenSamsung</string>
+    <string name="save" translatable="false">save</string>
+    <string name="load" translatable="false">load</string>
+    <string name="image" translatable="false">image</string>
+    <string name="text" translatable="false">text</string>
+    <string name="pen" translatable="false">pen</string>
+    <string name="eraser" translatable="false">eraser</string>
+    <string name="undo" translatable="false">undo</string>
+    <string name="redo" translatable="false">redo</string>
+    <string name="bg" translatable="false">background</string>
+    <string name="stroke" translatable="false">stroke</string>
+    <string name="hintText" translatable="false">hintText</string>
+    <string name="spd" translatable="false">.spd</string>
+    <string name="png" translatable="false">.png</string>
+    <string name="srecog" translatable="false">shape recognition</string>
+    <string name="shapeline" translatable="false">shape line</string>
+</resources>
